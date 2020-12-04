@@ -2,7 +2,7 @@
     <div align="right">
         简体中文 | <a href="README-EN.md">English</a>
     </div>
-    <h1>knightyun.github.io</h1>
+    <h1>Eumenideszz.github.io</h1>
     <p>基于 jekyll 的响应式 Github Pages 个人博客网站</p>
 
 [![license](https://img.shields.io/github/license/eumenideszz/eumenideszz.github.io)](https://github.com/eumenideszz/eumenideszz.github.io/blob/master/COPYING)
@@ -98,7 +98,8 @@ bundle exec jekyll s
 
 ## 参考
 
-- https://github.com/ShawnTeoh/matjek
+鸣谢@KnightYun
+- https://knightyun.github.io
 
 ## License
 
