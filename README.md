@@ -98,7 +98,8 @@ bundle exec jekyll s
 
 ## 参考
 
-- https://github.com/ShawnTeoh/matjek
+鸣谢@KnightYun
+- https://knightyun.github.io
 
 ## License
 
